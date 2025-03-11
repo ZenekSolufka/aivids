@@ -1,10 +1,7 @@
 <div style='display: flex; justify-content: center; align-items: center;'>
     <div style='display: flex; justify-content: center; align-items: center; gap: 2rem; width: 30%'>
-        <img src='./assets/preview/IMG_2010.png'>
-        <img src='./assets/preview/IMG_2008.png'>
-        <img src='./assets/preview/IMG_2009.png'>
-    </div>
-      
+        <img src='./assets/preview/preview.png'>
+    </div> 
 </div>
 <div  style='display: flex; justify-content: center; align-items: center; gap: 2rem;margin-top: 2rem;'>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
